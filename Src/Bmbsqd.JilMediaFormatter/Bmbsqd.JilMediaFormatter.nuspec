@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>Bmbsqd.JilMediaTypeFormatter</id>
+		<version>0.1.0</version>
+		<title>JIL MediaTypeFormatter</title>
+		<authors>BMBSQD</authors>
+		<owners>BMBSQD</owners>
+		<description>Json MediaTypeFormatter based on JIL</description>
+		<licenseUrl>http://creativecommons.org/licenses/by-sa/3.0/</licenseUrl>
+		<projectUrl>https://github.com/bmbsqd/jilmediaformatter/</projectUrl>
+		<iconUrl>http://www.gravatar.com/avatar/778137d42770f739df317b3cde5454ed.png?s=128</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<copyright>© Bombsquad Inc 2014</copyright>
+		<tags>json jil mediatypeformatter</tags>
+		<dependencies>
+			<dependency id="Jil" version="1.7"/>
+			<dependency id="Sigil" version="4.2"/>
+		</dependencies>
+	</metadata>
+</package>
